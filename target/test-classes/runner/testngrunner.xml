@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Rest Assured Testing">
+	<listeners>
+		<listener class-name="com.listeners.ExtentListeners">
+		</listener>
+	</listeners>
+
+	<test name="Tests">
+		<classes>
+			<class name="com.testcases.GetApiTest">				
+			</class>			
+		</classes>
+	</test>
+</suite>

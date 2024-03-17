@@ -1,0 +1,5 @@
+<configuration>
+    <logger name="org.testng" level="debug">
+  		<appender-ref ref="Console"/>
+	</logger>
+</configuration>
