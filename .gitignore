@@ -1,0 +1,41 @@
+/target/
+/allure-results/
+/selenium-reports/
+/test-output/
+/allure-results/
+/allegis-automation2.7z
+/.metadata/
+/bin/
+/lib/
+/allure-results/
+
+# Executable file #
+*.exe
+
+# Compiled class file #
+*.class
+
+# Log file #
+*.log
+
+# BlueJ files #
+*.ctxt
+
+# Mobile Tools for Java (J2ME) #
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# project and eclipse specific files #
+.classpath
+**/.settings
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.testng.eclipse.maven.prefs
+.project
